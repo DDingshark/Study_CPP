@@ -42,6 +42,7 @@ class CTest_2
 {
 public:
 	CTest_2(int nParam)
+		//디폴트값 넣는거 되긴되는대.... 앵간하면 쓰지않는걸로!
 		:m_nData_3(nParam) 
 	{
 		cout << m_nData_3 << endl;
