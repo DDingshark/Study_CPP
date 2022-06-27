@@ -44,10 +44,10 @@ public:
 	CTest_2(int nParam)
 		:m_nData_3(nParam) 
 	{
-		cout << m_n_Data_3 << endl;
+		cout << m_nData_3 << endl;
 	}
 	//요런식으로도 가능합니다!
-	int m_n_Data_3;
+	int m_nData_3;
 	
 };
 int main()
